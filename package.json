@@ -1,0 +1,15 @@
+{
+  "name": "awesome-paranoia",
+  "version": "0.1.0",
+  "description": "A curated list of reasons to be paranoid",
+  "repository": "https://github.com/PsychoLlama/awesome-paranoia",
+  "author": "Jesse Gibson <JesseTheGibson@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "private": true,
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.17.1"
+  }
+}
