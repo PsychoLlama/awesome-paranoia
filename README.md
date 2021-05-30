@@ -14,6 +14,7 @@ Your uncle was right, we all need tin foil hats and the government _is_ watching
 - [Crowdsourced WiFi Maps](https://en.wikipedia.org/wiki/Wi-Fi_positioning_system) - Most popular electronics monitor WiFi access points in the background and build detailed maps, which can later be used to locate devices without using GPS.
 - [Phone Location](https://www.vice.com/en/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile) - Telephone providers can easily track your phone using cell towers, but typically it's reserved for emergency services. AT&T, T-Mobile, and Sprint were caught selling to private buyers.
 - [Government Surveillance](https://www.eff.org/nsa-spying/how-it-works) - The NSA collected, mined, and archived all domestic phone and email traffic.
+- [Doorbell Video Feeds](https://www.theguardian.com/commentisfree/2021/may/18/amazon-ring-largest-civilian-surveillance-network-us) - Amazon's Ring doorbells have a police partner program, offering mass video surveillance without a warrant.
 
 ## Contribute
 
