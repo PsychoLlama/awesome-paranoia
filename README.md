@@ -15,6 +15,7 @@ Your uncle was right, we all need tin foil hats and the government _is_ watching
 - [Phone Location](https://www.vice.com/en/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile) - Telephone providers can easily track your phone using cell towers, but typically it's reserved for emergency services. AT&T, T-Mobile, and Sprint were caught selling to private buyers.
 - [Government Surveillance](https://www.eff.org/nsa-spying/how-it-works) - The NSA collected, mined, and archived all domestic phone and email traffic.
 - [Doorbell Video Feeds](https://www.theguardian.com/commentisfree/2021/may/18/amazon-ring-largest-civilian-surveillance-network-us) - Amazon's Ring doorbells have a police partner program, offering mass video surveillance without a warrant.
+- [Audio Beacons](https://arstechnica.com/tech-policy/2015/11/beware-of-ads-that-use-inaudible-sound-to-link-your-phone-tv-tablet-and-pc/) - Several apps include hidden software that listens for ultrasonic "beacons", inaudible sounds that play during TV Shows and advertisements. Your phone reports these beacons to create a personalized online marketing profile. Beacons can be added to anything, including radio stations or city streets. Thankfully the technology appears to have limited use globally, and it only works if you grant microphone permission.
 
 ## Contribute
 
